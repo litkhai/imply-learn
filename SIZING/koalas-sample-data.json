@@ -1,0 +1,21 @@
+{
+    "timestamp": "2016-08-04T18:05:07.054Z",
+    "session": "S74650219",
+    "remote_address": "172.31.3.170",
+    "path": "http://www.koalastothemax.com/img/koalas3.jpg",
+    "referrer": "Direct",
+    "timezone_offset": "-120",
+    "language": "it-IT",
+    "city": "Borgo San Lorenzo",
+    "region": "Province of Florence",
+    "country": "Italy",
+    "continent": "Europe",
+    "latitude": 43.9555,
+    "longitude": 11.3856,
+    "browser": "Mozilla",
+    "browser_version": "rv:11.0",
+    "agent_type": "Browser",
+    "agent_category": "Personal computer",
+    "os": "Windows",
+    "platform": "Windows"
+  }
